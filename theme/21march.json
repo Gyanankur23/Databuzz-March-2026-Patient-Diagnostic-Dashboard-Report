@@ -1,0 +1,102 @@
+{
+  "name": "Patient Diagnostic - Violet",
+  "dataColors": [
+    "#7C5CBF",
+    "#A084DC",
+    "#C0392B",
+    "#E67E22",
+    "#27AE60",
+    "#2980B9",
+    "#8E44AD",
+    "#16A085"
+  ],
+  "background": "#F5F0FF",
+  "foreground": "#2C2C54",
+  "tableAccent": "#7C5CBF",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#FFFFFF" } } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#DDD6F3" } }, "radius": 8 }],
+        "fontFamily": [{ "fontFamily": "Segoe UI" }]
+      }
+    },
+    "card": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#EDE8FF" } } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#7C5CBF" } }, "radius": 10 }],
+        "labels": [{ "color": { "solid": { "color": "#2C2C54" } }, "fontSize": 28, "fontFamily": "Segoe UI Semibold" }],
+        "categoryLabels": [{ "color": { "solid": { "color": "#7C5CBF" } }, "fontSize": 11 }]
+      }
+    },
+    "slicer": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#EDE8FF" } } }],
+        "border": [{ "show": true, "color": { "solid": { "color": "#A084DC" } }, "radius": 6 }],
+        "data": [{ "fontColor": { "solid": { "color": "#2C2C54" } }, "background": { "solid": { "color": "#EDE8FF" } } }],
+        "header": [{ "fontColor": { "solid": { "color": "#7C5CBF" } }, "background": { "solid": { "color": "#EDE8FF" } } }],
+        "selection": [{ "selectAllCheckboxEnabled": true, "singleSelect": false }]
+      }
+    },
+    "columnChart": {
+      "*": {
+        "dataPoint": [{ "defaultColor": { "solid": { "color": "#7C5CBF" } } }],
+        "valueAxis": [{ "gridlineColor": { "solid": { "color": "#DDD6F3" } } }],
+        "categoryAxis": [{ "labelColor": { "solid": { "color": "#2C2C54" } } }]
+      }
+    },
+    "barChart": {
+      "*": {
+        "dataPoint": [{ "defaultColor": { "solid": { "color": "#A084DC" } } }],
+        "valueAxis": [{ "gridlineColor": { "solid": { "color": "#DDD6F3" } } }]
+      }
+    },
+    "lineChart": {
+      "*": {
+        "dataPoint": [{ "defaultColor": { "solid": { "color": "#7C5CBF" } } }],
+        "valueAxis": [{ "gridlineColor": { "solid": { "color": "#DDD6F3" } } }]
+      }
+    },
+    "donutChart": {
+      "*": {
+        "dataPoint": [{ "defaultColor": { "solid": { "color": "#7C5CBF" } } }]
+      }
+    },
+    "tableEx": {
+      "*": {
+        "header": [{ "fontColor": { "solid": { "color": "#FFFFFF" } }, "background": { "solid": { "color": "#7C5CBF" } }, "fontSize": 12 }],
+        "values": [{ "fontColorPrimary": { "solid": { "color": "#2C2C54" } }, "backgroundPrimary": { "solid": { "color": "#F5F0FF" } }, "backgroundAlternate": { "solid": { "color": "#EDE8FF" } } }]
+      }
+    },
+    "matrix": {
+      "*": {
+        "header": [{ "fontColor": { "solid": { "color": "#FFFFFF" } }, "background": { "solid": { "color": "#7C5CBF" } } }],
+        "subTotals": [{ "fontColor": { "solid": { "color": "#7C5CBF" } }, "background": { "solid": { "color": "#DDD6F3" } } }]
+      }
+    },
+    "gauge": {
+      "*": {
+        "dataPoint": [{ "color": { "solid": { "color": "#7C5CBF" } } }],
+        "target": [{ "color": { "solid": { "color": "#C0392B" } } }]
+      }
+    },
+    "page": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#F5F0FF" } }, "transparency": 0 }],
+        "outspace": [{ "color": { "solid": { "color": "#EDE8FF" } } }]
+      }
+    },
+    "textbox": {
+      "*": {
+        "background": [{ "color": { "solid": { "color": "#7C5CBF" } } }]
+      }
+    }
+  },
+  "good": "#27AE60",
+  "neutral": "#E67E22",
+  "bad": "#C0392B",
+  "maximum": "#27AE60",
+  "center": "#E67E22",
+  "minimum": "#C0392B",
+  "null": "#DDD6F3"
+}
