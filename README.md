@@ -227,9 +227,16 @@ RETURN
 
 ---
 
-## ⚠️ Disclaimer
+### License
 
-> This dashboard is generated using AI and demographic data; the results may not be fully accurate. It is designed to assist medical professionals, not replace clinical judgment. All patient data is synthetic and generated for contest purposes only.
+MIT License
+
+---
+
+Created by Gyanankur Baruah
+@Gyanankur23
+
+Linkedln:- https://www.linkedin.com/in/gyanankur-baruah-bafc%E2%84%A2-sfc%E2%84%A2-kec%E2%84%A2-cpefpc%E2%84%A2-797205338/
 
 ---
 
