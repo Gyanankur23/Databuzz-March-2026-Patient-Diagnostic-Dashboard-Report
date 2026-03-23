@@ -1,8 +1,6 @@
 # 🏥 Patient Diagnostic Dashboard
 ### Databuzz Ltd — Power BI Contest | March 2026
 
-> ⚠️ **Disclaimer:** This dashboard is generated using AI and demographic data; the results may not be fully accurate. It is designed to assist medical professionals, not replace clinical judgment.
-
 ---
 
 ## 📌 Overview
